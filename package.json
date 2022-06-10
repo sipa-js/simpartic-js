@@ -1,0 +1,46 @@
+{
+  "name": "sipa",
+  "version": "0.0.1",
+  "date": "2022-06-10T21:29:44.371Z",
+  "description": "Particularly simple old school single page lightweight web framework for clever javascript developers.",
+  "author": {
+    "name": "Matthäus J. N. Beyrle",
+    "email": "sipa.npm@mail.magynhard.de"
+  },
+  "license": "LGPL",
+  "homepage": "https://github.com/magynhard/sipa#readme",
+  "preferGlobal": true,
+  "main": "bin/cli/cli.js",
+  "bin": {
+  },
+  "files": [
+    "cli.js",
+    "doc/**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magynhard/sipa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/magynhard/sipa/issues"
+  },
+  "private": false,
+  "keywords": [
+    "sipa",
+    "javascript",
+    "web",
+    "framework",
+    "clever",
+    "simple",
+    "old school",
+    "node-js",
+    "single page app",
+    "particularly"
+  ],
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "resolutions": {
+    "colors": "1.4.0"
+  }
+}

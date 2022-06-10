@@ -1,4 +1,4 @@
-![SIPA Particularly simple web framework](doc/_assets/_raw/logo_doc.svg)<br>
+![SIMPARTIC Particularly simple web framework](doc/_assets/_raw/logo_doc.svg)<br>
 
 > Particularly simple old school single page lightweight web framework for clever javascript developers.
 
