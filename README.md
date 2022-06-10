@@ -4,4 +4,4 @@
 
 Sipa is the short cut of Simpartic and its CLI!
 
-[Go to the Simpartic project](https://www.github.com/magynnhard/simpartic)
+[Go to the Simpartic project](https://www.github.com/magynhard/simpartic)
