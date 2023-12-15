@@ -1,2 +1,2 @@
 
-console.error(`'sipa' is deprecated, install 'simpartic' instead.`);
+console.error(`'simpartic' is deprecated, install 'sipa' instead.`);

@@ -1,13 +1,13 @@
 {
-  "name": "sipa",
-  "version": "0.0.4",
+  "name": "simpartic",
+  "version": "0.9.0",
   "description": "Particularly simple old school single page lightweight web framework for clever javascript developers.",
   "author": {
     "name": "Matthäus J. N. Beyrle",
-    "email": "sipa.npm@mail.magynhard.de"
+    "email": "simpartic.npm@mail.magynhard.de"
   },
   "license": "LGPL",
-  "homepage": "https://github.com/magynhard/sipa#readme",
+  "homepage": "https://github.com/sipa-js/simpartic-js#readme",
   "preferGlobal": true,
   "main": "bin/cli/cli.js",
   "bin": {
@@ -18,14 +18,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/magynhard/sipa.git"
+    "url": "git+https://github.com/sipa-js/simpartic-js.git"
   },
   "bugs": {
-    "url": "https://github.com/magynhard/sipa/issues"
+    "url": "https://github.com/sipa-js/simpartic-js/issues"
   },
   "private": false,
   "keywords": [
     "sipa",
+    "simpartic",
     "javascript",
     "web",
     "framework",
