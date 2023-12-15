@@ -2,6 +2,6 @@
 
 > Particularly simple old school single page lightweight web framework for clever javascript developers.
 
-Sipa is the short cut of Simpartic and its CLI!
+Simpartic was the original long name of Sipa! But we made it more simple!
 
-[Go to the Simpartic project](https://www.github.com/magynhard/simpartic)
+[Go to the Sipa project](https://www.github.com/sipa-js/sipa)
